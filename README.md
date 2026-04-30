@@ -1,13 +1,13 @@
 # <img src="https://cdn-icons-png.flaticon.com/512/2828/2828957.png" width="40"> Luiz Santos
 
-🚀 Backend Engineer transitioning into **AI Backend Engineering (LLM + Production Systems)**  
+🚀 Backend Engineer transitioning into **AI Backend Engineer (LLM + Production Systems)**  
 
 ---
 
 ## 🧠 About Me
 
 - 💼 Enterprise Backend Developer with 10 years of experience in **Java & Spring Boot** 
-- 🔄 Currently transitioning into **AI Systems Engineering**
+- 🔄 Currently transitioning into **AI Backend Engineer**
 - 🏗️ Focused on building **production-grade AI applications**, not just demos
 - 💡 Passionate about building scalable APIs, AI systems, and production-ready architectures  
 
