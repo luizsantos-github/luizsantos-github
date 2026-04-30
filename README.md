@@ -1,8 +1,6 @@
-# Hi, I'm Luiz Santos 👋
+# <img src="https://cdn-icons-png.flaticon.com/512/2828/2828957.png" width="40"> Luiz Santos
 
 🚀 Backend Engineer transitioning into **AI Backend Engineering (LLM + Production Systems)**  
-
-💡 Passionate about building scalable APIs, AI systems, and production-ready architectures  
 
 ---
 
@@ -11,11 +9,48 @@
 - 💼 Enterprise Backend Developer with 10 years of experience in **Java & Spring Boot** 
 - 🔄 Currently transitioning into **AI Systems Engineering**
 - 🏗️ Focused on building **production-grade AI applications**, not just demos
-- ⚙️ Strong interest in:
-  - System Design
-  - Scalable APIs
-  - LLM + Retrieval Systems (RAG)
-  - Async & Distributed Systems
+- 💡 Passionate about building scalable APIs, AI systems, and production-ready architectures  
+
+---
+
+## 📌 Projects
+
+- 🔹 Logsage AI - Log Analyzer  (For v0.2 implementation)
+- 🔹 Ausome Chatbot - RAG (In Progress)
+- 🔹 Ecommerce AI Assistant  - (Queued)
+
+---
+
+## 🛠️ Skills
+
+### Backend & AI
+![Python](https://img.shields.io/badge/Python-3776AB.svg?&style=for-the-badge&logo=Python&logoColor=white) 
+![fastapi](https://img.shields.io/badge/fastapi-009688.svg?&style=for-the-badge&logo=fastapi&logoColor=white)
+![pandas](https://img.shields.io/badge/pandas-150458.svg?&style=for-the-badge&logo=pandas&logoColor=white)
+
+- OpenAI API, RAG systems
+- Vector DB (ChromaDB)
+
+### Infrastructure
+![Docker](https://img.shields.io/badge/Docker-2496ED.svg?&style=for-the-badge&logo=Docker&logoColor=white)
+![Github](https://img.shields.io/badge/Github-181717.svg?&style=for-the-badge&logo=Github&logoColor=white)
+![Jira](https://img.shields.io/badge/Jira-0052CC.svg?&style=for-the-badge&logo=Jira&logoColor=white)
+![GithubActions](https://img.shields.io/badge/githubactions-2088FF.svg?&style=for-the-badge&logo=githubactions&logoColor=white)
+- Railway / Fly.io
+
+### Data & Async
+![postgresql](https://img.shields.io/badge/postgresql-4169E1.svg?&style=for-the-badge&logo=postgresql&logoColor=white)
+![mysql](https://img.shields.io/badge/mysql-4479A1.svg?&style=for-the-badge&logo=mysql&logoColor=white)
+![mongodb](https://img.shields.io/badge/mongodb-47A248.svg?&style=for-the-badge&logo=mongodb&logoColor=white)
+![sqlite](https://img.shields.io/badge/sqlite-003B57.svg?&style=for-the-badge&logo=sqlite&logoColor=white)
+![redis](https://img.shields.io/badge/redis-FF4438.svg?&style=for-the-badge&logo=redis&logoColor=white)
+
+- Celery / RQ
+
+### Engineering Practices
+- Testing (pytest)
+- Observability (logging, tracing)
+- API Security (JWT, API keys)
 
 ---
 
@@ -39,35 +74,12 @@ I focus on **real-world backend architecture**, not toy projects
 
 ---
 
-## 🛠️ Tech Stack
-
-### Backend & AI
-- Python, FastAPI
-- OpenAI API, RAG systems
-- Vector DB (ChromaDB)
-
-### Infrastructure
-- Docker
-- GitHub Actions (CI/CD)
-- Railway / Fly.io
-
-### Data & Async
-- PostgreSQL, SQLAlchemy
-- Redis, Celery / RQ
-
-### Engineering Practices
-- Testing (pytest)
-- Observability (logging, tracing)
-- API Security (JWT, API keys)
-
----
-
 ## 📈 Current Focus
 
-- ⚡ Async programming & background jobs
-- 📦 Production deployment & scaling
+- 📠 Advanced FastAPI
+- 📦 RAG Systems Developmen, Production deployment & scaling
 - 🧠 Advanced LLM system design
-- 🧪 Testing & reliability
+- 🧪 Unit Testing & reliability
 
 ---
 
@@ -82,15 +94,8 @@ I focus on **real-world backend architecture**, not toy projects
 
 ---
 
-## 📌 Featured Projects
+![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=luizsantos-github&show_icons=true&theme=tokyonight&hide=issues)
 
-> (Pin these on your GitHub)
-
-- 🔹 AI Log Analyzer  
-- 🔹 Ausome Chatbot (RAG + Deployment)  
-- 🔹 Ecommerce AI Assistant  
-
----
 
 ## 🤝 Let's Connect
 
