@@ -21,6 +21,15 @@
 
 ---
 
+## 📈 Current Focus
+
+- 📠 FastAPI (The Complete Course 2026) in Udemy
+- 📦 RAG Systems Development, Production deployment & scaling
+- 🧠 Advanced LLM system design
+- 🧪 Unit Testing & reliability
+
+---
+
 ## 🛠️ Skills
 
 ### Backend & AI
@@ -71,15 +80,6 @@ I focus on **real-world backend architecture**, not toy projects
 - Clean architecture
 - Separation of concerns
 - Production-ready patterns
-
----
-
-## 📈 Current Focus
-
-- 📠 Advanced FastAPI
-- 📦 RAG Systems Developmen, Production deployment & scaling
-- 🧠 Advanced LLM system design
-- 🧪 Unit Testing & reliability
 
 ---
 
