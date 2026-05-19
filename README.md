@@ -76,12 +76,7 @@ I focus on **real-world backend architecture**, not toy projects
   - AI system design
   - Scalable backend architecture
 
----
-
-![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=luizsantos-github&show_icons=true&theme=tokyonight&hide=issues)
-
-
-## 🤝 Let's Connect
+## 🤝 Let's Connect!
 
 - 💼 LinkedIn: [https://www.linkedin.com/in/luiz-santos-52989090/]
 - 📫 Email: [luizsantos.projects@gmail.com]
